@@ -1,0 +1,1 @@
+Hey if git pull didn't add this file directly to malu in machine it means git pull origin malu will only merge origin malu to machine malu otherwise origin malu and malu will be stored differently in machine until a merge is taken
