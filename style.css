@@ -1,0 +1,76 @@
+.navIcons{
+    font-size: 22px;
+}
+body{
+    background-color: rgba(241, 242, 244, 1.00);
+}
+.nav-link{
+    color: black;
+}
+.searchBar{
+    background-color: #f0f5ff;
+    border: 0;
+    height: 2.5em;
+    border-radius: 0 10px 10px 0;
+}
+.searchBtn{
+    border: 0;
+    background-color: #f0f5ff;
+    height: 2.5em;
+    border-radius: 10px 0 0 10px;
+}
+.scrollable-container {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Keep content in a single row */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    height: 9em;
+}
+
+.scrollable-container::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, WebKit-based browsers */
+}
+
+.customContainer{
+    width: 97.5%;
+}
+
+.categoryCard{
+    border-width: 0;
+    height: 90px;
+    width: 140px;
+    padding: 16px;
+    vertical-align: top;
+}
+.cardImg{
+    width: 64px;
+}
+.cardtext{
+    font-weight: 500;
+    font-size: 15px;
+    width: 100px;
+    white-space: wrap;
+}
+
+.elecCard{
+    height: 260px;
+    width: 200px;
+    padding: 6px;
+    vertical-align: top;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin: 1em 0 0 1em;
+}
+.eleImg{
+    height: 186px;
+    width: 186px;
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+.scrollable-container2 {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Keep content in a single row */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
