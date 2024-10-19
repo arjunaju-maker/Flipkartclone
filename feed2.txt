@@ -1,0 +1,1 @@
+confusion regarding - insertion into a branch in local machine could insert that insertion into all branches (of machine) or not.
